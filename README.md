@@ -618,14 +618,17 @@ border:2px solid white;
 ## OUTPUT:
 
 ### Home Page:
-![Alt text](home.png)
+![home](https://github.com/Kishorerz/productcompanywebsite/assets/144451216/0a32b0d1-f15e-4730-819b-76f83b3351a8)
  ### product page:
-![Alt text](prodct.png)
+![prodct](https://github.com/Kishorerz/productcompanywebsite/assets/144451216/fc010237-cb3b-45c8-b2a3-306fa2e46f2f)
+
  ### people page :
-![Alt text](people.png)
+![people](https://github.com/Kishorerz/productcompanywebsite/assets/144451216/e2d5ee73-767f-4a9e-b779-12493336d8be)
+
 
  ### contact page :
-![Alt text](contact.png)
+![contact](https://github.com/Kishorerz/productcompanywebsite/assets/144451216/5b3f0e24-aaf1-4883-9206-e6c82bbb3e30)
+
 
 ## Result:
 
